@@ -12,5 +12,7 @@ int main(void)
 	printf("*            *\n");
 	printf("**************");
 
+printf("Hello there...");
+
 	return 0;
 }
